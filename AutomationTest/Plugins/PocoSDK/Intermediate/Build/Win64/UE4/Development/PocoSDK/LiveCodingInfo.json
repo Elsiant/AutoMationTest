@@ -1,0 +1,16 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PocoSDK.cpp.obj": [
+			"Converter.cpp.obj",
+			"Parser.cpp.obj",
+			"TickableObject.cpp.obj",
+			"PocoManager.cpp.obj",
+			"PocoSDK.cpp.obj",
+			"AbstractDumper.cpp.obj",
+			"AbstractNode.cpp.obj",
+			"UE4Dumper.cpp.obj",
+			"UE4Node.cpp.obj"
+		]
+	}
+}

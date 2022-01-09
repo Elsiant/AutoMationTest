@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PocoSDK.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\hyeon\Documents\Unreal Projects\UE4-Tutorial-master 4.27\Intermediate\Build\Win64\HowTo_UUDQSGEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\hyeon\Documents\Unreal Projects\UE4-Tutorial-master 4.27\Plugins\PocoSDK\Intermediate\Build\Win64\UE4Editor\Development\PocoSDK\Module.PocoSDK.cpp.obj"
+"C:\Users\hyeon\Documents\Unreal Projects\UE4-Tutorial-master 4.27\Plugins\PocoSDK\Intermediate\Build\Win64\UE4Editor\Development\PocoSDK\Default.rc2.res"
+/OUT:"C:\Users\hyeon\Documents\Unreal Projects\UE4-Tutorial-master 4.27\Plugins\PocoSDK\Intermediate\Build\Win64\UE4Editor\Development\PocoSDK\UE4Editor-PocoSDK.lib"
